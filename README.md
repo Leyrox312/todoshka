@@ -59,8 +59,6 @@
 10. Кликнуть по ссылке напротив Local: (обычно http://localhost:3000)
 11. Вы восхитительны!
 
-## Дополнительные скрипты
+## Ссылка на деплой
 
-- npm run lint — проверка кода на ошибки с помощью ESLint
-- npm run format — автоматическое форматирование кода с помощью Prettier
-- npm run format:check — проверка кода на соответствие Prettier правилам
+https://todoshka-leyrox312s-projects.vercel.app?_vercel_share=tnyPgYhTci0WMW4NAmaH3LarldJCHvAe
