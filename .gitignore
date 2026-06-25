@@ -26,7 +26,3 @@ out
 
 # OS files
 *.log
-
-# Prisma DB
-prisma/*.db
-prisma/*.db-journal
