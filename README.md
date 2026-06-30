@@ -1,5 +1,7 @@
 # Проект todoshka - Todo List Application
 
+![til](https://github.com/Leyrox312/todoshka/blob/main/2026-06-26%2001-56-52%20(1).gif)
+
 ## Архитектура
 
 Проект построен на Next.js (App Router), что позволяет сочетать фронтенд и бекенд в одном приложении.
